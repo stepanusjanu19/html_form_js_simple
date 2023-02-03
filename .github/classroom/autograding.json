@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "run jest testing",
+      "setup": "npm i",
+      "run": "npm run test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
